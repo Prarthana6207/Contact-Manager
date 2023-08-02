@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "ce9b9eff-02a5-4bc3-ad35-9d34be885477",
+      "name": "Prarthana Jha",
+      "email": "prarthanajha9@gmail.com"
+    },
+    {
+      "id": "fe4b27fc-de08-421c-9ecc-d6c9f495d303",
+      "name": "Prarthana Jha",
+      "email": "prarthanajha9@gmail.com"
+    },
+    {
+      "id": "61de699c-751a-45b7-9d56-5155202f5d50",
+      "name": "harsh",
+      "email": "harsh@gmail.com"
+    },
+    {
+      "id": "000961b4-019b-4511-8268-6f8e17b1f545",
+      "name": "sam",
+      "email": "sam@test.com"
+    },
+    {
+      "id": "ce2b9ec4-772a-4216-a8a0-fde7b29570b7",
+      "name": "sam",
+      "email": "sam@test.com"
+    },
+    {
+      "id": "d11ea4c8-65fd-4b54-bd4c-7cfd5808e467",
+      "name": "sam",
+      "email": "sam@test.com"
+    },
+    {
+      "id": "ef40751f-0f53-4433-bb8c-18a1f73a1868",
+      "name": "sam",
+      "email": "sam@test.com"
+    }
+  ]
+}
